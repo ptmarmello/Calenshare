@@ -1,0 +1,31 @@
+:root{
+  margin: 0 0;
+  padding: 0 0;
+  display: block;
+  border: 0;
+  font-size: 100%;
+
+}
+
+body {
+	line-height: 1;
+}
+
+ol, ul, li {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: block;
+  justify-content: center;
+  
+}
