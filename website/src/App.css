@@ -4,7 +4,7 @@
   display: block;
   border: 0;
   font-size: 100%;
-
+  background: #f5f5fd;
 }
 
 body {
@@ -28,4 +28,13 @@ table {
   display: block;
   justify-content: center;
   
+}
+
+.App-Container{
+  display: flex;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
 }

@@ -1,0 +1,9 @@
+.Home-Calendar{
+    margin: 0 auto;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    max-width: 45em;
+    min-width: 20em;
+}

@@ -1,0 +1,249 @@
+{
+    "User":[
+        {
+            "Username": "Pethi",
+            "Content":{
+                "Subjects": [
+                    {
+                        "Title": "Computação Quântica",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 1",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done": "false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Materiais Elétricos",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 2",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Eletromag",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 2",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Modelos Prob",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 2",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Circuitos II",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 2",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Chinês II",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Lista 2",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "G1",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "Title": "Steam",
+                        "color": "",
+                        "Deadlines": [
+                            {
+                                "Title": "Website Platform",
+                                "delivery_data": "",
+                                "description": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                },
+                                "done":"false"
+                            }
+                        ],
+                        "Exams": [
+                            {
+                                "Title": "",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "1"
+                                }
+                            }
+                        ],
+                        "Events": [
+                            {
+                                "Title": "",
+                                "date": "",
+                                "reminder":{
+                                    "state": "true",
+                                    "when": "2"
+                                }
+                            }
+                        ]
+            
+                    }
+                ],
+                "Events": [
+                  {
+                    "titulo": "Front End",
+                    "link": "https://github.com/ptmarmello",
+                    "cor": "#6BD1FF",
+                    "link_extra": {
+                      "text": "Acesse Aqui",
+                      "url": "https://github.com/ptmarmello"
+                    },
+                    "videos": [
+                      {
+                        "titulo": "Estudante de Eng. Elétrica, FullStack, Empreendedor e amante de inovação!",
+                        "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+                      },
+                      {
+                        "titulo": "SEO com React",
+                        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+                      },
+                      {
+                        "titulo": "Componentização com VanillaJS #AluraMais",
+                        "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+                      }
+                              
+                    ]
+                  },
+                  {
+                    "titulo": "Plataformas e Projetos Pessoais",
+                    "cor": "#00C86F",
+                    "link_extra": {
+                      "text": "Acesse Aqui",
+                      "url": "https://www.alura.com.br/cursos-online-programacao"
+                    },
+                    "videos": [
+                      {
+                        "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+                        "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+                      },
+                      {
+                        "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+                        "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+                      }
+                    ]
+                  }
+                ]
+            }
+        }
+    ]
+}
